@@ -1,4 +1,4 @@
-# Graph Viewer
+# vis-graph
 
 A simple OpenGL-based graph visualization tool that reads adjacency list format and displays graphs with interactive layouts.
 
@@ -63,7 +63,6 @@ Example:
 - +/-: Zoom in/out
 - Esc: Exit
 
-## Clean Up
 
 ```
 make clean
